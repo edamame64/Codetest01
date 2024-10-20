@@ -38,6 +38,3 @@ GitHub Desktopを理解したいなぁ
 
   </tbody>
 </table>
-
-## 画像も付けられる
-![サンプル画像](img/sample_image01.jpg)
